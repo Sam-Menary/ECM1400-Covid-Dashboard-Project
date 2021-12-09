@@ -209,4 +209,4 @@ point to test the validity of the data.
 
 - **Author**: Samuel Menary
 - **Email**: sjm269@exeter.ac.uk
-- **GitHub Link**: https://github.com/Sam-Menary/ECM1400---Covid-Dashboard
+- **GitHub Link**: https://github.com/Sam-Menary/ECM1400-Covid-Dashboard-Project
