@@ -1,0 +1,22 @@
+{
+"location":
+	{
+		"local":
+			{			
+				"name":"Exeter",
+				"areaType":"ltla"
+			},
+		"national":
+			{			
+				"name":"England",
+				"areaType":"Nation"
+			}
+	},
+	"apiKey":"0520b8ce5b7d4afeb04164197ca1c9e4",
+	"newsArgs":
+		{
+			"terms":"covid",
+			"articleCount": 5,
+			"dateFrom":"current"
+		}
+}

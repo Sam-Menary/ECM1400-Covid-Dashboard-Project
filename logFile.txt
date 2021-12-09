@@ -1,0 +1,249 @@
+18:47:45,652 root DEBUG News API request made for articles with keywords long stratton from 2021-12-02
+18:47:45,653 root DEBUG 1 Article(s) successfully selected from news API request
+18:47:45,653 root INFO News articles update successful
+18:47:45,939 root DEBUG Covid API request made for Exeter
+18:47:46,28 root DEBUG Covid API request made for England
+18:47:46,28 root INFO Covid-data update successful
+18:47:46,28 root INFO Initalised data succesfully
+18:50:03,324 root DEBUG News API request made for articles with keywords long stratton from 2021-12-02
+18:50:03,324 root DEBUG 1 Article(s) successfully selected from news API request
+18:50:03,324 root INFO News articles update successful
+18:50:03,447 root DEBUG Covid API request made for Exeter
+18:50:03,536 root DEBUG Covid API request made for England
+18:50:03,537 root INFO Covid-data update successful
+18:50:03,537 root INFO Initalised data succesfully
+18:50:05,499 root ERROR Failed to write article to deletedArticles.txt due to unknown unicode char
+18:50:05,499 root INFO Deleted article: 'Back Issues: Early troubles at the Tiakit\u0101huna Cheese Factory'
+18:50:43,792 root DEBUG News article update scheduled for 18.0s time
+18:50:43,793 root INFO Set update 'e' for 18:51 on ['2021', '12', '03']
+18:51:44,115 root DEBUG News API request made for articles with keywords long stratton from 2021-12-02
+18:51:44,116 root DEBUG 1 Article(s) successfully selected from news API request
+18:51:44,116 root INFO News articles update successful
+18:51:44,116 root INFO Cleared update: 'e'
+18:52:07,24 root DEBUG News API request made for articles with keywords covid from 2021-12-02
+18:52:07,24 root DEBUG 5 Article(s) successfully selected from news API request
+18:52:07,24 root INFO News articles update successful
+18:52:07,148 root DEBUG Covid API request made for Exeter
+18:52:07,470 root DEBUG Covid API request made for England
+18:52:07,470 root INFO Covid-data update successful
+18:52:07,470 root INFO Initalised data succesfully
+23:43:15,106 root DEBUG News API request made for articles with keywords covid from 2021-12-02
+23:43:15,106 root DEBUG 5 Article(s) successfully selected from news API request
+23:43:15,106 root INFO News articles update successful
+23:43:15,410 root DEBUG Covid API request made for Exeter
+23:43:17,764 root DEBUG Covid API request made for England
+23:43:17,764 root INFO Covid-data update successful
+23:43:17,764 root INFO Initalised data succesfully
+00:01:20,568 root DEBUG News API request made for articles with keywords covid from 2021-12-03
+00:01:20,569 root DEBUG 5 Article(s) successfully selected from news API request
+00:01:20,569 root INFO News articles update successful
+00:01:20,826 root DEBUG Covid API request made for Exeter
+00:01:21,85 root DEBUG Covid API request made for England
+00:01:21,85 root INFO Covid-data update successful
+00:01:21,85 root INFO Initalised data succesfully
+00:01:51,849 root DEBUG Covid-data update scheduled for 12.0s time
+00:01:51,849 root INFO Set update 'natjan' for 00:02 on ['2021', '12', '04']
+00:02:52,354 root DEBUG Covid API request made for Exeter
+00:02:52,447 root DEBUG Covid API request made for England
+00:02:52,447 root INFO Covid-data update successful
+00:02:52,447 root INFO Cleared update: 'natjan'
+13:20:24,616 root DEBUG News API request made for articles with keywords covid from 2021-12-03
+13:20:24,668 root DEBUG 5 Article(s) successfully selected from news API request
+13:20:24,668 root INFO News articles update successful
+13:20:25,131 root DEBUG Covid API request made for Exeter
+13:20:25,542 root DEBUG Covid API request made for England
+13:20:25,543 root INFO Covid-data update successful
+13:20:25,543 root INFO Initalised data succesfully
+13:20:33,3 root INFO Deleted article: 'Upstate New York Hospitals Are Overwhelmed as Covid Cases Surge'
+10:57:21,539 root DEBUG News API request made for articles with keywords covid from 2021-12-05
+10:57:21,555 root DEBUG 5 Article(s) successfully selected from news API request
+10:57:21,555 root INFO News articles update successful
+10:57:21,952 root DEBUG Covid API request made for Exeter
+10:57:22,361 root DEBUG Covid API request made for England
+10:57:22,362 root INFO Covid-data update successful
+10:57:22,362 root INFO Initalised data succesfully
+20:00:32,372 root DEBUG News API request made for articles with keywords covid from 2021-12-05
+20:00:32,373 root DEBUG 5 Article(s) successfully selected from news API request
+20:00:32,373 root INFO News articles update successful
+20:00:32,656 root DEBUG Covid API request made for Exeter
+20:00:32,872 root DEBUG Covid API request made for England
+20:00:32,872 root INFO Covid-data update successful
+20:00:32,872 root INFO Initalised data succesfully
+20:00:36,274 root INFO Deleted article: 'Covid in Uganda: The man whose children may never return to school'
+20:00:46,89 root DEBUG Covid-data update scheduled for 12.0s time
+20:00:46,89 root DEBUG News article update scheduled for 12.0s time
+20:00:46,89 root INFO Set update 'e' for 20:01 on ['2021', '12', '06']
+20:00:57,397 root DEBUG Covid-data update scheduled for 66.0s time
+20:00:57,397 root DEBUG News article update scheduled for 66.0s time
+20:00:57,397 root INFO Set update 'g' for 20:02 on ['2021', '12', '06']
+20:01:57,661 root DEBUG Covid API request made for Exeter
+20:01:57,763 root DEBUG Covid API request made for England
+20:01:57,763 root INFO Covid-data update successful
+20:01:58,257 root DEBUG News API request made for articles with keywords covid from 2021-12-05
+20:01:58,263 root DEBUG 5 Article(s) successfully selected from news API request
+20:01:58,263 root INFO News articles update successful
+20:01:58,263 root DEBUG Covid-data update scheduled for 86340.0s time
+20:01:58,263 root DEBUG News article update scheduled for 86340.0s time
+20:01:58,263 root INFO Repeating Update: 'e' on ['2021', '12', '07']
+20:02:58,534 root DEBUG Covid API request made for Exeter
+20:02:58,774 root DEBUG Covid API request made for England
+20:02:58,774 root INFO Covid-data update successful
+20:02:58,964 root DEBUG News API request made for articles with keywords covid from 2021-12-05
+20:02:58,966 root DEBUG 5 Article(s) successfully selected from news API request
+20:02:58,966 root INFO News articles update successful
+20:02:58,966 root INFO Cleared update: 'g'
+20:03:22,654 root INFO Deleted update: 'e'
+14:17:57,152 root DEBUG News API request made for articles with keywords covid from 2021-12-06
+14:17:57,153 root DEBUG 5 Article(s) successfully selected from news API request
+14:17:57,153 root INFO News articles update successful
+14:17:57,476 root DEBUG Covid API request made for Exeter
+14:17:57,723 root DEBUG Covid API request made for England
+14:17:57,723 root INFO Covid-data update successful
+14:17:57,723 root INFO Initalised data succesfully
+14:45:11,544 root DEBUG News API request made for articles with keywords covid from 2021-12-06
+14:45:11,545 root DEBUG 5 Article(s) successfully selected from news API request
+14:45:11,545 root INFO News articles update successful
+14:45:11,825 root DEBUG Covid API request made for Exeter
+14:45:11,932 root DEBUG Covid API request made for England
+14:45:11,933 root INFO Covid-data update successful
+14:45:11,933 root INFO Initalised data succesfully
+14:45:23,751 root INFO Deleted article: 'Trevor Noah Suggests Sending Marjorie Taylor Greene to Beijing'
+14:45:29,881 root DEBUG Covid-data update scheduled for 30.0s time
+14:45:29,882 root INFO Set update 'ff' for 14:46 on ['2021', '12', '07']
+14:45:31,493 root INFO Deleted update: 'ff'
+15:00:20,855 root DEBUG News API request made for articles with keywords covid from 2021-12-06
+15:00:20,856 root DEBUG 5 Article(s) successfully selected from news API request
+15:00:20,856 root INFO News articles update successful
+15:00:21,104 root DEBUG Covid API request made for Exeter
+15:00:21,437 root DEBUG Covid API request made for England
+15:00:21,437 root INFO Covid-data update successful
+15:00:21,437 root INFO Initalised data succesfully
+15:01:44,293 root DEBUG News API request made for articles with keywords covid from 2021-12-06
+15:01:44,294 root DEBUG 5 Article(s) successfully selected from news API request
+15:01:44,294 root INFO News articles update successful
+15:01:44,412 root DEBUG Covid API request made for Exeter
+15:01:44,510 root DEBUG Covid API request made for England
+15:01:44,510 root INFO Covid-data update successful
+15:01:44,511 root INFO Initalised data succesfully
+15:06:11,330 root DEBUG News API request made for articles with keywords covid from 2021-12-06
+15:06:11,331 root DEBUG 5 Article(s) successfully selected from news API request
+15:06:11,331 root INFO News articles update successful
+15:06:11,630 root DEBUG Covid API request made for Exeter
+15:06:11,976 root DEBUG Covid API request made for England
+15:06:11,976 root INFO Covid-data update successful
+15:06:11,976 root INFO Initalised data succesfully
+14:43:11,443 root DEBUG News API request made for articles with keywords covid from 2021-12-07
+14:43:11,458 root DEBUG 5 Article(s) successfully selected from news API request
+14:43:11,458 root INFO News articles update successful
+14:52:11,75 root DEBUG News API request made for articles with keywords covid from 2021-12-07
+14:52:11,75 root DEBUG 5 Article(s) successfully selected from news API request
+14:52:11,75 root INFO News articles update successful
+14:52:11,629 root DEBUG Covid API request made for Exeter
+14:52:11,830 root DEBUG Covid API request made for England
+14:52:11,830 root INFO Covid-data update successful
+14:52:11,830 root INFO Initalised data succesfully
+16:09:25,650 root DEBUG News API request made for articles with keywords covid from 2021-12-07
+16:09:25,651 root DEBUG 5 Article(s) successfully selected from news API request
+16:09:25,651 root INFO News articles update successful
+16:09:26,205 root DEBUG Covid API request made for Exeter
+16:09:26,735 root DEBUG Covid API request made for England
+16:09:26,735 root INFO Covid-data update successful
+16:09:26,735 root INFO Initalised data succesfully
+16:13:13,847 root DEBUG News API request made for articles with keywords covid from 2021-12-07
+16:13:13,848 root DEBUG 5 Article(s) successfully selected from news API request
+16:13:13,848 root INFO News articles update successful
+16:13:14,492 root DEBUG Covid API request made for Exeter
+16:13:14,807 root DEBUG Covid API request made for England
+16:13:14,808 root INFO Covid-data update successful
+16:13:14,808 root INFO Initalised data succesfully
+16:30:14,147 root DEBUG Covid-data update scheduled for 48.0s time
+16:30:14,147 root INFO Set update 'e' for 16:31 on ['2021', '12', '08']
+16:31:14,718 root DEBUG Covid API request made for Exeter
+16:31:15,146 root DEBUG Covid API request made for England
+16:31:15,146 root INFO Covid-data update successful
+16:31:15,146 root INFO Cleared update: 'e'
+14:01:56,616 root DEBUG News API request made for articles with keywords covid from 2021-12-08
+14:01:56,617 root DEBUG 5 Article(s) successfully selected from news API request
+14:01:56,617 root INFO News articles update successful
+14:01:57,139 root DEBUG Covid API request made for Exeter
+14:01:57,629 root DEBUG Covid API request made for England
+14:01:57,629 root INFO Covid-data update successful
+14:01:57,629 root INFO Initalised data succesfully
+14:07:59,872 root DEBUG News API request made for articles with keywords covid from 2021-12-08
+14:08:10,162 root DEBUG News API request made for articles with keywords covid from 2021-12-08
+14:08:10,162 root DEBUG 5 Article(s) successfully selected from news API request
+14:08:10,162 root INFO News articles update successful
+14:08:10,713 root DEBUG Covid API request made for Exeter
+14:08:11,214 root DEBUG Covid API request made for England
+14:08:11,214 root INFO Covid-data update successful
+14:08:11,214 root INFO Initalised data succesfully
+14:26:54,98 root DEBUG News API request made for articles with keywords covid from 2021-12-08
+14:26:54,98 root DEBUG 5 Article(s) successfully selected from news API request
+14:26:54,98 root INFO News articles update successful
+14:26:54,508 root DEBUG Covid API request made for Exeter
+14:26:55,17 root DEBUG Covid API request made for England
+14:26:55,17 root INFO Covid-data update successful
+14:26:55,17 root INFO Initalised data succesfully
+14:27:10,377 root DEBUG News API request made for articles with keywords covid from 2021-12-08
+14:33:38,817 root DEBUG News API request made for articles with keywords covid from 2021-12-08
+14:33:38,817 root ERROR Invalid API key, keywords or time was entered
+14:33:39,268 root DEBUG Covid API request made for Exeter
+14:33:39,621 root DEBUG Covid API request made for England
+14:33:39,621 root INFO Covid-data update successful
+14:33:39,621 root INFO Initalised data succesfully
+15:12:32,322 root DEBUG News API request made for articles with keywords covid from 2021-12-08
+15:12:32,323 root DEBUG 5 Article(s) successfully selected from news API request
+15:12:32,323 root INFO News articles update successful
+15:12:32,886 root DEBUG Covid API request made for Exeter
+15:12:33,254 root DEBUG Covid API request made for England
+15:12:33,254 root INFO Covid-data update successful
+15:12:33,254 root INFO Initalised data succesfully
+15:28:32,869 root DEBUG News API request made for articles with keywords covid from 2021-12-08
+15:28:32,870 root DEBUG 5 Article(s) successfully selected from news API request
+15:28:32,870 root INFO News articles update successful
+15:28:33,205 root DEBUG Covid API request made for Exeter
+15:28:33,742 root DEBUG Covid API request made for England
+15:28:33,742 root INFO Covid-data update successful
+15:28:33,742 root INFO Initalised data succesfully
+15:31:01,852 root DEBUG News API request made for articles with keywords covid from 2021-12-08
+15:31:01,853 root DEBUG 5 Article(s) successfully selected from news API request
+15:31:01,853 root INFO News articles update successful
+15:31:02,193 root DEBUG Covid API request made for Exeter
+15:31:02,622 root DEBUG Covid API request made for England
+15:31:02,622 root INFO Covid-data update successful
+15:31:02,622 root INFO Initalised data succesfully
+17:27:27,921 root DEBUG News API request made for articles with keywords covid from 2021-12-08
+17:27:27,922 root DEBUG 5 Article(s) successfully selected from news API request
+17:27:27,922 root INFO News articles update successful
+17:27:28,128 root DEBUG Covid API request made for Exeter
+17:27:28,589 root DEBUG Covid API request made for England
+17:27:28,589 root INFO Covid-data update successful
+17:27:28,589 root INFO Initalised data succesfully
+22:58:36,546 root DEBUG News API request made for articles with keywords covid from 2021-12-08
+22:58:36,547 root DEBUG 5 Article(s) successfully selected from news API request
+22:58:36,547 root INFO News articles update successful
+22:58:37,1 root DEBUG Covid API request made for Exeter
+22:58:37,464 root DEBUG Covid API request made for England
+22:58:37,464 root INFO Covid-data update successful
+22:58:37,464 root INFO Initalised data succesfully
+23:01:18,277 root DEBUG Covid-data update scheduled for 42.0s time
+23:01:18,277 root DEBUG News article update scheduled for 42.0s time
+23:01:18,277 root INFO Set update 'g' for 23:02 on ['2021', '12', '09']
+23:01:19,820 root INFO Deleted article: 'Google's Year in Search 2021 was dominated by sports and 'Squid Game''
+23:01:21,237 root INFO Deleted article: 'The Expanse Creators Explain Why Season 6 Is Only 6 Episodes Long'
+23:01:40,29 root DEBUG News article update scheduled for 78.0s time
+23:01:40,29 root INFO Set update 'fh' for 23:03 on ['2021', '12', '09']
+23:02:40,822 root DEBUG Covid API request made for Exeter
+23:02:41,370 root DEBUG Covid API request made for England
+23:02:41,370 root INFO Covid-data update successful
+23:02:41,559 root DEBUG News API request made for articles with keywords covid from 2021-12-08
+23:02:41,566 root DEBUG 5 Article(s) successfully selected from news API request
+23:02:41,566 root INFO News articles update successful
+23:02:41,566 root INFO Cleared update: 'g'
+23:03:38,68 root INFO Deleted article: 'Texas Apple store closes due to COVID-19 outbreak'
+23:03:38,634 root DEBUG News API request made for articles with keywords covid from 2021-12-08
+23:03:38,650 root DEBUG 5 Article(s) successfully selected from news API request
+23:03:38,650 root INFO News articles update successful
+23:03:38,650 root DEBUG News article update scheduled for 86364.0s time
+23:03:38,650 root INFO Repeating Update: 'fh' on ['2021', '12', '10']
+23:03:49,87 root INFO Deleted update: 'fh'
